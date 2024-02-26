@@ -297,3 +297,5 @@ pyrightconfig.json
 
 # Custom
 /task
+poetry.lock
+pyproject.toml
